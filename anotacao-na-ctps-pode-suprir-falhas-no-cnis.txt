@@ -1,0 +1,81 @@
+logo eadir
+CADASTRO
+ENTRAR
+Thiago Albuquerque
+01/11/2019
+
+Anotação na CTPS pode suprir falhas no CNIS
+autor
+Já é sabido por boa parcela dos previdenciaristas que a falha no recolhimento de contribuição por parte do empregador não é de responsabilidade do empregado (enunciado 18, do CRPS). Isso se dá em razão do instituto da substituição da responsabilidade tributária.
+
+No mesmo diapasão, a Carteira de Trabalho possui grau elevado de presunção de início e fim de vínculo empregatício, tanto no caso de eventual falha e anotação apenas a poteriori do vínculo, como no caso de discrepância entre o encerramento do vínculo constante do CNIS e aquele registrado na CTPS. Esse foi o entendimento sufragado pela Turma Recursal, que determinou que o reconhecimento do período de trabalho fosse o anotado na CTPS, e não aquele constante no CNIS, reconhecido pelo INSS, quando do indeferimento. Assim, a TR afastou a negativa e concedeu o benefício de aposentadoria, reconhecendo o tempo de labor.
+
+Acompanhe o julgado:
+
+
+
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE URBANA. CUMPRIMENTO DA CARÊNCIA. COMPROVAÇÃO. SENTENÇA REFORMADA. RECURSO PROVIDO.
+
+VOTO
+
+Trata-se de recurso interposto pela parte autora em face da sentença que julgou IMPROCEDENTE o pedido de concessão de aposentadoria por idade de trabalhador urbano.
+
+Dois são os requisitos necessários para a concessão da aposentadoria por idade: a) a idade mínima, de 65 anos de idade, se homem, ou 60 anos, no caso de segurada do sexo feminino e b) o cumprimento da carência, conforme a tabela de transição constante no artigo 142 da Lei n°. 8.213/91, para os filiados ao Regime Geral de Previdência Social (RGPS) até a publicação da LBPS. Para os segurados após a publicação da Lei de Benefícios, exige-se o cumprimento da carência de 180 meses.
+
+Impende relembrar que para os segurados empregados e avulsos, cuja responsabilidade de recolhimento é do empregador, presume-se o recolhimento das contribuições, desde que comprovado o exercício da atividade, sendo devido o benefício no valor integral.
+
+Ademais, a apresentação de início razoável de prova material é suficiente para o reconhecimento de tempo de serviço do trabalhador e a anotação na CTPS goza de presunção juris tantum de veracidade, nos termos do enunciado n.º 12 do TST e súmula n.º 225 do STF, de modo que constitui prova suficiente do serviço prestado no período nela mencionado. As arguições de eventuais suspeitas a ela hão de ser objetivas e razoavelmente fundadas. 
+
+No caso, a CTPS apresenta registro do vínculo junto ao Hotel Passeio Ltda. no período de 1º/04/1993 a 12/03/1996. Embora no CNIS conste registro do termo final do vínculo em 1994, cumpre destacar que a CTPS goza de presunção juris tantum de veracidade, nos termos do enunciado n.º 12 do TST e súmula n.º 225 do STF, de modo que constitui prova suficiente do serviço prestado no período nela mencionado.
+
+Ademais, não houve qualquer impugnação do INSS quanto à prova documental apresentada pela parte autora (o réu não apresentou contestação).
+
+Saliente-se que, no caso do segurado empregado, a responsabilidade pelo fornecimento das informações para o CNIS e o respectivo recolhimento das contribuições previdenciárias é do empregador, de modo que não pode o trabalhador ser prejudicado por eventuais irregularidades/incorreções. 
+
+Assim, considerando o interregno de 1º/04/1993 a 12/03/1996, constata-se que a autora implementou o seguinte tempo de contribuição ao tempo do requerimento administrativo (DER: 05/09/2017): 
+
+Assim, vislumbra-se que, ao tempo do requerimento administrativo, a parte autora já contava 185 (cento e oitenta e cinco) contribuições, tendo cumprido a carência exigida para a concessão da aposentadoria por idade desde a DER.
+
+Ante o exposto, DOU PROVIMENTO ao recurso inominado para condenar o INSS a conceder, em favor da parte autora, o benefício de aposentadoria por idade, com o pagamento da parcelas atrasadas desde a data do requerimento administrativo, devidamente atualizadas.
+
+Considerando que o julgamento de procedência proferido por esta Turma Recursal aponta para a probabilidade do direito autoral e que a natureza alimentar da prestação implica o reconhecimento do perigo de dano em caso de não implantação do benefício, reputam-se preenchidos os requisitos para a concessão da tutela provisória de urgência.
+
+Assim, DETERMINO a imediata concessão do benefício, em favor da parte autora, com implantação no mês de novembro/2018 (DIP), no prazo máximo de 15 (quinze) dias a contar da intimação desta decisão, sob pena de fixação de multa diária pelo descumprimento da obrigação.
+
+Quanto à aplicação dos índices de juros e correção monetária, pode-se afirmar que o Supremo Tribunal Federal, no julgamento das ADIs 4357 e 4425, declarou a inconstitucionalidade por arrastamento do art. 1-F da Lei n. 9494/97, na redação dada pela Lei n. 11.960/09, apenas em relação à correção monetária, mas não em relação aos juros, que permaneceu o simples no mesmo percentual aplicado nas cadernetas de poupança.
+
+Recentemente, no julgamento do RE 870947, em sede de repercussão geral, o STF consolidou o entendimento de que, nas relações jurídicas de caráter não-tributário, deve ser aplicado o IPCA-E como índice de atualização monetária e juros moratórios segundo a remuneração da caderneta de poupança. A Suprema Corte reconheceu a inconstitucionalidade do art. 1º F da Lei nº. 9.494/95, com a redação dada pela Lei nº. 11.960/09, no que concerne à atualização monetária do débito judicial por considerar que a remuneração oficial da caderneta de poupança (TR) não reflete a real variação de preços da economia. Confiram-se as teses firmadas no julgado: 
+
+Decisão: O Tribunal, por maioria e nos termos do voto do Relator, Ministro Luiz Fux, apreciando o tema 810 da repercussão geral, deu parcial provimento ao recurso para, confirmando, em parte, o acórdão lavrado pela Quarta Turma do Tribunal Regional Federal da 5ª Região, (i) assentar a natureza assistencial da relação jurídica em exame (caráter não-tributário) e (ii) manter a concessão de benefício de prestação continuada (Lei nº 8.742/93, art. 20) ao ora recorrido (iii) atualizado monetariamente segundo o IPCA-E desde a data fixada na sentença e (iv) fixados os juros moratórios segundo a remuneração da caderneta de poupança, na forma do art. 1º-F da Lei nº 9.494/97 com a redação dada pela Lei nº 11.960/09. Vencidos, integralmente o Ministro Marco Aurélio, e parcialmente os Ministros Teori Zavascki, Dias Toffoli, Cármen Lúcia e Gilmar Mendes. Ao final, por maioria, vencido o Ministro Marco Aurélio, fixou as seguintes teses, nos termos do voto do Relator: 1) O art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, na parte em que disciplina os juros moratórios aplicáveis a condenações da Fazenda Pública, é inconstitucional ao incidir sobre débitos oriundos de relação jurídico-tributária, aos quais devem ser aplicados os mesmos juros de mora pelos quais a Fazenda Pública remunera seu crédito tributário, em respeito ao princípio constitucional da isonomia (CRFB, art. 5º, caput); quanto às condenações oriundas de relação jurídica não-tributária, a fixação dos juros moratórios segundo o índice de remuneração da caderneta de poupança é constitucional, permanecendo hígido, nesta extensão, o disposto no art. 1º-F da Lei nº 9.494/97 com a redação dada pela Lei nº 11.960/09; e 2) O art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, na parte em que disciplina a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança, revela-se inconstitucional ao impor restrição desproporcional ao direito de propriedade (CRFB, art. 5º, XXII), uma vez que não se qualifica como medida adequada a capturar a variação de preços da economia, sendo inidônea a promover os fins a que se destina. Presidiu o julgamento a Ministra Cármen Lúcia. Plenário, 20.9.2017.
+
+Portanto, reconhecida a inconstitucionalidade parcial do art. 1º-F, da Lei n. 9494/97, na redação dada pela Lei n. 11.960/09, tão somente no que concerne índice de atualização monetária, o débito judicial deverá ser corrigido monetariamente pelo IPCA-E, desde quando devido, e acrescido de juros no mesmo percentual aplicado nas cadernetas de poupança desde a citação.
+
+Sem condenação em honorários, uma vez que, nos Juizados Especiais Federais, somente o recorrente vencido suporta tal ônus (Enunciado 57 do FONAJEF).
+
+Têm-se por expressamente prequestionadas todas as questões constitucionais suscitadas, uma vez que, para fins de prequestionamento, é desnecessária a indicação expressa de artigos e parágrafos da Constituição Federal, afigurando-se suficiente sejam as regras neles contidas o fundamento do decisum ou o objeto da discussão, como no caso ora sob exame (AI 522624 AgR, Relator Min. GILMAR MENDES, Segunda Turma, DJ 6.10.2006).
+
+É como voto.
+
+ACÓRDÃO
+
+Vistos, relatados e discutidos os presentes autos, acordam os membros da Terceira Turma Recursal dos Juizados Especiais Federais do Ceará, por unanimidade, em DAR PROVIMENTO ao recurso inominado do autor, nos termos do voto do relator, que passa a integrar esta decisão.
+
+Além do signatário, participaram do julgamento os Exmos. Srs. Juízes Federais Nagibe de Melo Jorge Neto e Júlio Rodrigues Coelho Neto. 
+
+Fortaleza, data da sessão.
+
+ANDRÉ DIAS FERNANDES
+
+Juiz Federal da 3ª TR/CE
+
+3ª Relatoria
+
+Atendimento
+Clique aqui para entrar em contato conosco.
+Rua Doutor José Lourenço, nº 2072, Sala 01
+
+Joaquim Távora, Fortaleza / Ceará
+
+E-mail: contato@eadir.com.br
+
+Copyright © 2019 EADir - Escola Aberta de Direito. | Todos os direitos reservados
